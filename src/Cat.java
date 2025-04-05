@@ -2,9 +2,13 @@ public class Cat {
 	private String name;
 	private int age;
 	
-//	Cat(){
-//		System.out.println("Meow");
-//	}
+	Cat(){
+		System.out.println("Meow");
+	}
+	
+	{
+		System.out.println("meow 2");
+	}
 //	
 //	@SuppressWarnings("preview")
 //	Cat(String name,int age)

@@ -4,4 +4,9 @@ public class Parent {
 	{
 		System.out.println("Parent Sleeps");
 	}
+	void eat()
+	{
+		System.out.println("Parent eats");
+		
+	}
 }

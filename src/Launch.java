@@ -21,7 +21,24 @@ public class Launch {
 //		System.out.println(cal.add(a1, b1, c1));
 //		System.out.println(cal.add(a2, b2, c2));
 //		System.out.println(cal.add(a, b1, c2));
-		Child c = new Child();
-		c.sleep();
+//		Child c = new Child();
+//		c.sleep();
+//		c.eat();
+//		c.swims();
+//		Cat c = new Cat();
+		
+//		Example.display();
+//		Example e = new Example();
+//		e.display2();
+		
+//		Farmer f = new Farmer();
+//		f.collectData();
+//		f.caluclateData();
+//		f.dispalyData();
+		
+		CargoPlane p = new CargoPlane();
+		p.takeOff();
+		p.fly();
+		p.land();
 	}
 }
